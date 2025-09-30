@@ -44,14 +44,6 @@ Technology has the power to transform complex problems into simple solutions. As
   <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/ca44f35c-d0fc-4acb-beee-feb82e271752" width="250">
     <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/9a4f6c58-e733-4bba-b111-6df53af2ae29" width="250">
 </div>
-
----
-
-## Technology Stack
-- Frontend: Flutter   
-- Backend: Firebase, Python  
-- Real-time data: Firebase Realtime Database
-
 ---
 
 ## Impact
