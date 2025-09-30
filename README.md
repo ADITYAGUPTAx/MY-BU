@@ -48,7 +48,6 @@ Technology has the power to transform complex problems into simple solutions. As
   <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/ca44f35c-d0fc-4acb-beee-feb82e271752" width="300">
 </div>
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/9a4f6c58-e733-4bba-b111-6df53af2ae29" width="300">
   <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/63e82ef2-6250-47f1-b2ab-3ca727076088" width="300">
 </div>
 ---
