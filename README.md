@@ -25,20 +25,32 @@ Technology has the power to transform complex problems into simple solutions. As
 
 ---
 
-## Screenshots
+## UI
 
 **Home Page**  
-![Home Screenshot 1](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/d70124f1-42b0-4483-b791-0232497b0262)![Home Screenshot 2](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/e0b3a4c2-62c3-45ba-a95b-1031e1b40605)  
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/d70124f1-42b0-4483-b791-0232497b0262" width="300">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/e0b3a4c2-62c3-45ba-a95b-1031e1b40605" width="300">
+</div>
 
 **Graphs & Analytics**  
-![Graph Screenshot 1](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/42e0c971-29e5-40a0-a6b0-d98a6a1d8794)![Graph Screenshot 2](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/7f2af993-9104-4d8a-96fc-4c3ed3aeea71)  
-![Graph Screenshot 3](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/f2425b1a-8c9a-48fa-8579-b3f0de42dd0d)  
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/42e0c971-29e5-40a0-a6b0-d98a6a1d8794" width="300">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/7f2af993-9104-4d8a-96fc-4c3ed3aeea71" width="300">
+</div>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/f2425b1a-8c9a-48fa-8579-b3f0de42dd0d" width="300">
+</div>
 
 **Mess, Library & Gym Overview**  
-![Mess/Gym Screenshot 1](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/c7e588fb-7277-44b8-af94-9bbf141df168)  
-![Mess/Gym Screenshot 2](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/ca44f35c-d0fc-4acb-beee-feb82e271752)   
-![Mess/Gym Screenshot 4](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/63e82ef2-6250-47f1-b2ab-3ca727076088)  
-
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/c7e588fb-7277-44b8-af94-9bbf141df168" width="300">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/ca44f35c-d0fc-4acb-beee-feb82e271752" width="300">
+</div>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/9a4f6c58-e733-4bba-b111-6df53af2ae29" width="300">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/63e82ef2-6250-47f1-b2ab-3ca727076088" width="300">
+</div>
 ---
 
 ## Technology Stack
