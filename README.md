@@ -28,12 +28,10 @@ Technology has the power to transform complex problems into simple solutions. As
 ## Screenshots
 
 **Home Page**  
-![Home Screenshot 1](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/d70124f1-42b0-4483-b791-0232497b0262)  
-![Home Screenshot 2](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/e0b3a4c2-62c3-45ba-a95b-1031e1b40605)  
+![Home Screenshot 1](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/d70124f1-42b0-4483-b791-0232497b0262)![Home Screenshot 2](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/e0b3a4c2-62c3-45ba-a95b-1031e1b40605)  
 
 **Graphs & Analytics**  
-![Graph Screenshot 1](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/42e0c971-29e5-40a0-a6b0-d98a6a1d8794)  
-![Graph Screenshot 2](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/7f2af993-9104-4d8a-96fc-4c3ed3aeea71)  
+![Graph Screenshot 1](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/42e0c971-29e5-40a0-a6b0-d98a6a1d8794)![Graph Screenshot 2](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/7f2af993-9104-4d8a-96fc-4c3ed3aeea71)  
 ![Graph Screenshot 3](https://github.com/Utkarsh-m08/MY-BU/assets/139049170/f2425b1a-8c9a-48fa-8579-b3f0de42dd0d)  
 
 **Mess, Library & Gym Overview**  
