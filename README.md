@@ -27,34 +27,29 @@ Technology has the power to transform complex problems into simple solutions. As
 
 ## UI
 
-**Home Page**  
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/d70124f1-42b0-4483-b791-0232497b0262" width="300">
-  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/e0b3a4c2-62c3-45ba-a95b-1031e1b40605" width="300">
+**Home Page & Graphs**  
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/d70124f1-42b0-4483-b791-0232497b0262" width="250">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/e0b3a4c2-62c3-45ba-a95b-1031e1b40605" width="250">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/42e0c971-29e5-40a0-a6b0-d98a6a1d8794" width="250">
 </div>
-
-**Graphs & Analytics**  
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/42e0c971-29e5-40a0-a6b0-d98a6a1d8794" width="300">
-  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/7f2af993-9104-4d8a-96fc-4c3ed3aeea71" width="300">
-</div>
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/f2425b1a-8c9a-48fa-8579-b3f0de42dd0d" width="300">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/7f2af993-9104-4d8a-96fc-4c3ed3aeea71" width="250">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/f2425b1a-8c9a-48fa-8579-b3f0de42dd0d" width="250">
 </div>
 
 **Mess, Library & Gym Overview**  
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/c7e588fb-7277-44b8-af94-9bbf141df168" width="300">
-  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/ca44f35c-d0fc-4acb-beee-feb82e271752" width="300">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/c7e588fb-7277-44b8-af94-9bbf141df168" width="250">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/ca44f35c-d0fc-4acb-beee-feb82e271752" width="250">
+  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/63e82ef2-6250-47f1-b2ab-3ca727076088" width="250">
 </div>
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/Utkarsh-m08/MY-BU/assets/139049170/63e82ef2-6250-47f1-b2ab-3ca727076088" width="300">
-</div>
+
 ---
 
 ## Technology Stack
 - Frontend: Flutter   
-- Backend: Firebase, Python
+- Backend: Firebase, Python  
 - Real-time data: Firebase Realtime Database
 
 ---
